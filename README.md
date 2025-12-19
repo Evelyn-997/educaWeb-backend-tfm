@@ -1,7 +1,7 @@
 # EducaWeb – Backend (TFM) 
 
 ## Descripción ## 
-Frontend de la plataforma web educativa EducaWeb, desarrollado en Angular
+Backend de la plataforma web educativa EducaWeb, desarrollado en Spring Boot
 como parte del Trabajo Fin de Máster.
 
 ---
