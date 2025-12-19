@@ -1,0 +1,29 @@
+{"properties": [
+  {
+    "name": "app.jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.secret'"
+  },
+  {
+    "name": "app.jwt.expiration-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.expiration-seconds'"
+  },
+  {
+    "name": "app.jwt.refresh-expiration-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt.refresh-expiration-seconds'"
+  },
+  {
+    "name": "springdoc.swagger-ui.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.swagger-ui.path'"
+  },
+  {
+  "name": "springdoc.api-docs.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springdoc.api-docs.path'"
+  }
+
+]
+}
